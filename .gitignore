@@ -1,0 +1,19 @@
+# Build outputs
+dist/
+build/
+release/
+*.exe
+*.msi
+*.zip
+*.7z
+
+# ML artifacts (if any ever appear here)
+*.pt
+*.onnx
+*.engine
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
