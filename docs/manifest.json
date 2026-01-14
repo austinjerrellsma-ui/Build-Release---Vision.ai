@@ -1,0 +1,13 @@
+{
+  "latest": "1.0.0",
+  "min_supported": "1.0.0",
+  "force_update": false,
+  "message": "An update is available.",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/austinjerrellsma-ui/visionai-releases/releases/download/v1.0.0/VisionAI-Setup-1.0.0.exe",
+      "sha256": "FILL_ME_IN",
+      "size": 0
+    }
+  }
+}
