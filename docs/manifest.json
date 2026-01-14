@@ -6,8 +6,8 @@
   "platforms": {
     "windows": {
       "url": "https://github.com/austinjerrellsma-ui/visionai-releases/releases/download/v1.0.0/VisionAI-Setup-1.0.0.exe",
-      "sha256": "FILL_ME_IN",
-      "size": 0
+      "sha256": "9C2F8EB49E768679E5270F219F18E320A0E3F964AA906E2053EFFE793B5EEF7D",
+      "size": 3324531127
     }
   }
 }
